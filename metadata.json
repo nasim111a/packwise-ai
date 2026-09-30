@@ -1,0 +1,6 @@
+{
+  "name": "PackWise AI",
+  "description": "AI-Powered Food Packaging Recommendation System for food manufacturers, food-processing businesses, researchers, and supply-chain teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
